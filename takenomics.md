@@ -18,7 +18,7 @@ The token distribution is designed to ensure long-term sustainability and value 
 | **Community Mining**       | 25%        |
 | **Ecosystem Fund**         | 15%        |
 | **Staking Rewards**        | 10%        |
-| **Liquidity & CEX**        | 5%         |
+| **Liquidity**        | 5%         |
 | **Dev & Ops Reserve**      | 5%         |
 
 ## Detailed Breakdown
