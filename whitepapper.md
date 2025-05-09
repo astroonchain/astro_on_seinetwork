@@ -23,7 +23,7 @@ AO Staking is a decentralized Web3 application that allows holders of the $AO to
 - **Smart Contracts**: 
   - `AO Token`: ERC-20 standard.
   - `AO Staking`: Custom staking contract managing balances and rewards.
-- **Blockchain**: Monad Testnet, compatible with Sei EVM RPC.
+- **Blockchain**: Sei EVM.
 - **Contracts**:
   - Token: `0xDa205256568b0D26Df7dE431E5C800CF8d5E7530`
   - Staking: `0x03AC0F8f35Aeeaa22a4A2b48dc04B66DB58Cf2A0`
