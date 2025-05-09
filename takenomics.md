@@ -35,7 +35,7 @@ The token distribution is designed to ensure long-term sustainability and value 
 ### 4. **Staking Rewards (10%)**
    Staking rewards will be distributed to users who stake their tokens in the platform. This will help secure the network while incentivizing token holders to keep their tokens in the staking pool.
 
-### 5. **Liquidity & CEX (5%)**
+### 5. **Liquidity(5%)**
    A portion of the tokens will be allocated to ensure liquidity on decentralized exchanges (DEX) and centralized exchanges (CEX), facilitating seamless trading and market activity.
 
 ### 6. **Dev & Ops Reserve (5%)**
