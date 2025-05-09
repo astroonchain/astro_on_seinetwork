@@ -6,7 +6,7 @@
 | **Ticker**           | \$AO                                                                                                                                       |
 | **Network**          | Sei v2 Mainnet (EVM-compatible)                                                                                                            |
 | **Token Standard**   | ERC-20 (EVM Smart Contract)                                                                                                                |
-| **Max Supply**       | 21,000,000 \$AO (fixed supply)                                                                                                             |
+| **Max Supply**       | 50,000,000 \$AO (fixed supply)                                                                                                             |
 | **Contract Address** | [`0xDa205256568b0D26Df7dE431E5C800CF8d5E7530`](https://sei.blockscout.com/address/0xDa205256568b0D26Df7dE431E5C800CF8d5E7530?tab=contract) |
 | **Utility**          | NFT upgrade, staking rewards, ecosystem access     
 
