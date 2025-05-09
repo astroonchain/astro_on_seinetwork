@@ -14,7 +14,7 @@ The token distribution is designed to ensure long-term sustainability and value 
 
 | Allocation                | Percentage |
 | ------------------------- | ---------- |
-| **NFT Holders**            | 40%        |
+| **Airdrops**            | 40%        |
 | **Community Mining**       | 25%        |
 | **Ecosystem Fund**         | 15%        |
 | **Staking Rewards**        | 10%        |
@@ -23,7 +23,7 @@ The token distribution is designed to ensure long-term sustainability and value 
 
 ## Detailed Breakdown
 
-### 1. **NFT Holders (40%)**
+### 1. **Airdrops (40%)**
    A significant portion of the tokens will be allocated to NFT holders, rewarding those who support the ecosystem by holding NFTs. These tokens may be distributed periodically or through specific NFT-related incentives.
 
 ### 2. **Community Mining (25%)**
