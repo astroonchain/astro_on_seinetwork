@@ -1,3 +1,7 @@
+                                                                            |
+
+# Tokenomics
+
 | Item                 | Detail                                                                                                                                     |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Token Name**       | Astro Onchain                                                                                                                              |
@@ -6,9 +10,7 @@
 | **Token Standard**   | ERC-20 (EVM Smart Contract)                                                                                                                |
 | **Max Supply**       | 21,000,000 \$AO (fixed supply)                                                                                                             |
 | **Contract Address** | [`0xDa205256568b0D26Df7dE431E5C800CF8d5E7530`](https://sei.blockscout.com/address/0xDa205256568b0D26Df7dE431E5C800CF8d5E7530?tab=contract) |
-| **Utility**          | NFT upgrade, staking rewards, ecosystem access                                                                                 |
-
-# Tokenomics
+| **Utility**          | NFT upgrade, staking rewards, ecosystem access     
 
 The token distribution is designed to ensure long-term sustainability and value for the community, project, and ecosystem. Below is the breakdown of token allocations:
 
