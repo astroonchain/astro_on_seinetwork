@@ -13,7 +13,6 @@ AO Staking is a decentralized Web3 application that allows holders of the $AO to
 - **Wallet Integration**: Connects seamlessly with MetaMask.
 - **Automatic Chain Switching**: Prompts wallet to switch to Sei V2 chain (Chain ID: 1329).
 - **Responsive UI**: Designed for accessibility on both desktop and mobile.
-- **Real-time Updates**: Balance, rewards, and staked tokens auto-refresh every 5 seconds.
 
 ---
 
