@@ -14,25 +14,25 @@ The token distribution is designed to ensure long-term sustainability and value 
 
 | Allocation                | Percentage |
 | ------------------------- | ---------- |
-| **Airdrops**            | 40%        |
-| **Community Mining**       | 25%        |
+| **Airdrops**            | 20%        |
+| **Community**       | 25%        |
 | **Ecosystem Fund**         | 15%        |
-| **Staking Rewards**        | 10%        |
+| **Staking Rewards**        | 30%        |
 | **Liquidity**        | 5%         |
 | **Dev & Ops Reserve**      | 5%         |
 
 ## Detailed Breakdown
 
-### 1. **Airdrops (40%)**
+### 1. **Airdrops (20%)**
    A significant portion of the tokens will be allocated to NFT holders, rewarding those who support the ecosystem by holding NFTs. These tokens may be distributed periodically or through specific NFT-related incentives.
 
-### 2. **Community Mining (25%)**
+### 2. **Community (25%)**
    Community mining will incentivize active participants in the ecosystem. Users can mine tokens through staking, providing liquidity, or engaging in other ecosystem-related activities.
 
 ### 3. **Ecosystem Fund (15%)**
    The Ecosystem Fund is designed to support the long-term growth of the project. It will be used for development, partnerships, marketing, and other initiatives that promote the project’s success.
 
-### 4. **Staking Rewards (10%)**
+### 4. **Staking Rewards (30%)**
    Staking rewards will be distributed to users who stake their tokens in the platform. This will help secure the network while incentivizing token holders to keep their tokens in the staking pool.
 
 ### 5. **Liquidity(5%)**
